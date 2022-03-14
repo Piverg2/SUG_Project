@@ -1,7 +1,6 @@
 *** Settings ***
 Library  SeleniumLibrary
 Resource  ../../Resources/PageObjects/LoginPage.robot
-Resource  ../../Resources/PageObjects/EventPage.robot
 Resource  ../../Resources/CommonFunctionality.robot
 
 Test Setup  Start TestCase
